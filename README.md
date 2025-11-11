@@ -22,7 +22,7 @@ const victor = {
     tools: ["Git", "VS Code", "Figma"]
   },
   architecture: ["Responsive Design", "Progressive Web Apps", "RESTful APIs"],
-  funFact: "I believe in shipping fast and iterating faster 🚢"
+  funFact: "I believe in shipping fast and iterating faster 🚢 "
 };
 ```
 
